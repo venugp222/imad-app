@@ -25,7 +25,7 @@ var articles = {
                   Second Paragraph..Second paragraph finished.
             </p>`
 },
-'artcle-two' : { 
+'article-two' : { 
      title : 'article-two | venugopal',
     heading : 'Article two',
     date : 'Oct 10, 2017',
