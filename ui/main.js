@@ -13,6 +13,6 @@ function moveRight (){
 }
 img.onclick = function()
 {
-    var inerval =setInterval(moveRight,100);
+    var inerval =setInterval(moveRight,50);
    
 };
